@@ -3,9 +3,9 @@
 #..........Just one requests do not remove my credit..........#
 
 import os
-API_ID = 1234567
-API_HASH = ""
-BOT_TOKEN = ""
+API_ID = 29862108
+API_HASH = "3820881da83bd7a4d39fdb27490c9d20"
+BOT_TOKEN = "7983291306:AAHq2zbuEnBsELeCKA6IQC1g1J7vBgMYDiU"
 #Logs
 LOG_CHANNEL = "" 
 # MongoDB setup
